@@ -1,0 +1,1 @@
+long long b = ucln2so(arr[0], arr[1]);
